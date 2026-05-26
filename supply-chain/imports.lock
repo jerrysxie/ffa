@@ -3,6 +3,8 @@
 
 [audits.OpenDevicePartnership.audits]
 
+[audits.bytecode-alliance.audits]
+
 [audits.google.audits]
 
 [audits.mozilla.audits]
