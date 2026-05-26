@@ -12,3 +12,9 @@ url = "https://raw.githubusercontent.com/google/rust-crate-audits/main/audits.to
 
 [imports.mozilla]
 url = "https://raw.githubusercontent.com/mozilla/supply-chain/main/audits.toml"
+
+[policy."ffa"]
+audit-as-crates-io = false
+
+[imports.bytecode-alliance]
+url = "https://raw.githubusercontent.com/bytecodealliance/wasmtime/main/supply-chain/audits.toml"
